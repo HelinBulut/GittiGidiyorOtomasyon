@@ -10,8 +10,8 @@ import org.junit.Assert;
 public class LoginPage extends BasePage implements LoginPageContants {
 
     private Logger LOGGER = LogManager.getLogger(LoginPage.class);
-    String email="hunerfurkan";
-    String sifre="Furkan11";
+    String email="helinbulut92";
+    String sifre="1001.helin";
 
     public void goToLoginPage (){
         waitSeconds(1);
